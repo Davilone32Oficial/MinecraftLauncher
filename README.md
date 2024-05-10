@@ -1,5 +1,7 @@
 Donwload the lastest release <a href="https://github.com/Davilone32Oficial/MinecraftLauncher/releases">here</a> and enjoy
 
+<a href="https://www.virustotal.com/gui/file/cfc707415f58c9edd35edb60d3f440db0fb5f8415b447cad9506740eb75ec937?nocache=1">Virustotal</a>
+
 If you want the source code, talk to me on discord: davilone32
 
 # Launcher screenshots 
